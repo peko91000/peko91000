@@ -1,4 +1,4 @@
-- 👋 Hi, I’m guy
+- 👋 salut je m'appelle  guy
 - 👀 je suis intéressé par l'informatique 
 - 🌱 je suis première année de BUT informatique 
 
